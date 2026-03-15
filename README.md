@@ -24,4 +24,4 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?sty
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white)
